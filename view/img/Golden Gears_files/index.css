@@ -1,0 +1,19 @@
+#page-home {
+	display: flex;
+}
+
+#page-about_us {
+	display: none;
+}
+
+#page-blog {
+	display: none;
+}
+
+#page-schedule {
+	display: none;
+}
+
+#page-sponsors {
+	display: none;
+}

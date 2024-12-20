@@ -1,0 +1,27 @@
+#edit-home {
+	display: none;
+}
+
+#edit-about_us {
+	display: none;
+}
+
+#edit-blog {
+	display: flex;
+}
+
+#edit-blog_create {
+	display: none;
+}
+
+#edit-schedule {
+	display: none;
+}
+
+#edit-sponsors {
+	display: none;
+}
+
+#choose-blog_create {
+	display: none;
+}

@@ -1,0 +1,20 @@
+.custom-scrollbar::-webkit-scrollbar {
+    width: 8px; /* make scrollbar skinny */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent; /* color of the scrollbar track */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #fac905ff; /* color of the scrollbar thumb */
+    border-radius: 5px; /* make the scrollbar thumb pill-shaped */
+}
+
+.custom-scrollbar {
+    overflow-y: scroll; /* ensure scrollbar is always visible */
+}
+
+.custom-scrollbar {
+    overflow-x: hidden; /* ensure horizontal scrollbar is always hidden */
+}
